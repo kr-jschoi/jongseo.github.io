@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Jongseo Choi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jongseo Choi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jongseo
+last_name: Choi
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Motion Planning Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ThorDrive
+    url: https://www.thordrive.ai/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
