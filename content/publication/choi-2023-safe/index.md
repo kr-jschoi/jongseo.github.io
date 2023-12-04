@@ -15,7 +15,7 @@ publication_types:
 publication: '*arXiv preprint arXiv:2311.02957*'
 
 links:
- - name: Link
+- name: Custom Link
   url: https://arxiv.org/abs/2311.02957
 url_pdf: https://arxiv.org/pdf/2311.02957.pdf
 url_video: https://youtu.be/7bhxfuhAqos
