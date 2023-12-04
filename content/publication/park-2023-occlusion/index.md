@@ -15,7 +15,7 @@ publication: '*IEEE Robotics and Automation Letters*'
 doi: "10.1109/LRA.2023.3329627"
 
 links:
-- name: Custom Link
+- name: Link
   url: https://ieeexplore.ieee.org/abstract/document/10305287
 url_pdf: https://arxiv.org/pdf/2306.07004.pdf
 url_video: https://youtu.be/TJo2pfhkxw4
