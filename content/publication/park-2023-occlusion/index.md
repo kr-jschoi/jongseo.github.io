@@ -12,6 +12,7 @@ publishDate: '2023-12-03T14:19:19.036408Z'
 publication_types:
 - article-journal
 publication: '*IEEE Robotics and Automation Letters*'
+doi: "10.1109/LRA.2023.3329627"
 
 links:
 - name: Custom Link
