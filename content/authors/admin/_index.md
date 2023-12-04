@@ -45,31 +45,31 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Software
-    items:
-      - name: Planning Algorithms
-        description: ''
-        percent: 100
+# skills:
+#  - name: Software
+#    items:
+#      - name: Planning Algorithms
+#        description: ''
+#        percent: 100
         # icon: python
         # icon_pack: fab
-      - name: Optimization
-        description: ''
-        percent: 80
+#      - name: Optimization
+#        description: ''
+#        percent: 80
         # icon: chart-line
         # icon_pack: fas
-      - name: Gaussian Process Motion Planning
-        description: ''
-        percent: 40
+#      - name: Gaussian Process Motion Planning
+#        description: ''
+#        percent: 40
         # icon: database
         # icon_pack: fas
-  - name: Hardware
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Sensors
-        description: ''
-        percent: 60
+#  - name: Hardware
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Sensors
+#        description: ''
+#        percent: 60
         # icon: person-hiking
         # icon_pack: fas
 
