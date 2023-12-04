@@ -12,4 +12,7 @@ publishDate: '2023-12-03T14:19:19.036408Z'
 publication_types:
 - article-journal
 publication: '*IEEE Robotics and Automation Letters*'
+
+url_pdf: https://arxiv.org/pdf/2306.07004.pdf
+url_video: https://youtu.be/TJo2pfhkxw4
 ---
