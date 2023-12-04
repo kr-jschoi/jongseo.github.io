@@ -195,6 +195,7 @@ sections:
 #      columns: '2'
 #      view: card
   - block: collection
+    id: featured
     content:
       title: Recent Publications
 #      text: |-
@@ -204,7 +205,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: true
     design:
       columns: '2'
       view: citation
