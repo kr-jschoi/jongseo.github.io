@@ -1,5 +1,5 @@
 ---
-title: an open-space planner using Hybrid A* and Kinodynamic-RRT.
+title: An open-space planner using Hybrid A* and Kinodynamic-RRT.
 summary: 
 tags:
   - Autonomous Driving
@@ -20,7 +20,7 @@ image:
 #url_code: ''
 # url_pdf: 'https://arxiv.org/pdf/2311.02957.pdf'
 #url_slides: ''
-# url_video: 'https://youtu.be/7bhxfuhAqos'
+url_video: 'https://youtu.be/7bhxfuhAqos'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

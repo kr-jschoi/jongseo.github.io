@@ -1,5 +1,5 @@
 ---
-title: Development of a jerk-minimized velocity planning module using a spatial-temporal map for autonomous vehicles.
+title: A jerk-minimized velocity planning module using a spatial-temporal map for autonomous vehicles.
 summary: 
 tags:
   - Autonomous Driving
