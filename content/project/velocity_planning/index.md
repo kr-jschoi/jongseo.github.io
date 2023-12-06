@@ -11,4 +11,6 @@ date: "2020-11-11T00:00:00Z"
 image:
   caption: Velocity Planning
   focal_point: Smart
+
+url_video: 'https://youtu.be/G7o131F5coo'
 ---
