@@ -20,7 +20,7 @@ image:
 #url_code: ''
 # url_pdf: 'https://arxiv.org/pdf/2311.02957.pdf'
 #url_slides: ''
-url_video: 'https://youtu.be/7bhxfuhAqos'
+url_video: 'https://youtu.be/ZvOuJ3Kb-jg'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
