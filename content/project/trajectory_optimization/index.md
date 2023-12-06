@@ -6,7 +6,7 @@ tags:
 date: '2023-11-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+# external_link: ''
 
 image:
   caption: Trajectory Optimization
