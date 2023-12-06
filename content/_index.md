@@ -165,8 +165,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Autonomou Driving
-          tag: Autonomou Driving
+        - name: Autonomous Driving
+          tag: Autonomous Driving
         - name: Other
           tag: Other
     design:
