@@ -1,6 +1,6 @@
 ---
 title: Occlusion-aware Risk Assessment and Driving Strategy for Autonomous Vehicles Using Simplified Reachability Quantification
-summary: 
+summary: published in RA-L in Nov 2023
 tags:
   - Autonomous Driving
 date: '2023-11-02T00:00:00Z'
@@ -19,9 +19,9 @@ image:
 #     url: https://twitter.com/georgecushen
 #url_code: ''
 links:
-- name: Paper
-  url: https://arxiv.org/pdf/2306.07004.pdf
-#url_pdf: 'https://arxiv.org/pdf/2306.07004.pdf'
+- name: RA-L
+  url: https://ieeexplore.ieee.org/abstract/document/10305287
+url_pdf: 'https://arxiv.org/pdf/2306.07004.pdf'
 #url_slides: ''
 url_video: 'https://youtu.be/TJo2pfhkxw4'
 
