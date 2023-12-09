@@ -18,7 +18,10 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 #url_code: ''
-url_pdf: 'https://arxiv.org/pdf/2306.07004.pdf'
+links:
+- name: Paper
+  url: https://arxiv.org/pdf/2306.07004.pdf
+#url_pdf: 'https://arxiv.org/pdf/2306.07004.pdf'
 #url_slides: ''
 url_video: 'https://youtu.be/TJo2pfhkxw4'
 
