@@ -102,7 +102,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-  - icon: tistory_colored
+  - icon: T
     icon_pack: custom
     link: https://kr-jschoi.tistory.com/
 
