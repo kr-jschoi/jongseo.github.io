@@ -102,6 +102,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - icon: tistory_colored
+    icon_pack: custom
+    link: https://kr-jschoi.tistory.com/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
