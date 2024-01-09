@@ -102,8 +102,8 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-  - icon: T
-    icon_pack: custom
+  - icon: twitter
+    icon_pack: fab
     link: https://kr-jschoi.tistory.com/
 
 # Highlight the author in author lists? (true/false)
