@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Motion Planning Engineer
+role: Robotics SW Engineer 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,17 +30,17 @@ bio: My research interests include motion planning and multi-agent planning for 
 # Interests to show in About widget
 interests:
   - Motion Planning
-  - Multi-agent Path Planning
+  - Multi-agent Path Finding
   - Autonomous vehicles
   - Robotics
 
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Autonomous Software Engineering
+    - course: M.Sc. in Autonomous Software Engineering
       institution: University of Technology, Germany
       year: 2020
-    - course: B.S. in Electronic Engineering
+    - course: B.Sc. in Electronic Engineering
       institution: Chungbuk National University
       year: 2015
 

@@ -1,6 +1,6 @@
 ---
 title: Multi-agent pickup & delivery system
-summary: Task assignment (auction algorithm) + MAPF (ECBS, AA-SIPP) + ADG
+summary: Task assignment, MAPF, robust execution & replanning
 tags:
   - Multi agent
 date: '2024-10-01T00:00:00Z'

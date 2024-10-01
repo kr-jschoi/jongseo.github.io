@@ -167,6 +167,8 @@ sections:
           tag: '*'
         - name: Autonomous Driving
           tag: Autonomous Driving
+        - name: Multi Agent
+          tag: Multi Agent
         - name: Other
           tag: Other
     design:
