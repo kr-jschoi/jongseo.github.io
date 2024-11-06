@@ -31,6 +31,7 @@ bio: My research interests include motion planning and reinforcement learning fo
 interests:
   - Motion Planning
   - Multi-agent Path Finding
+  - Reinforcement Learning
   - Autonomous vehicles
   - Robotics
 
