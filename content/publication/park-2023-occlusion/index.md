@@ -7,7 +7,7 @@ authors:
 - Hyuntai Chin
 - Sang-Hyun Lee
 - Doosan Baek
-date: '2023-11-012'
+date: '2023-11-02'
 publishDate: '2023-11-02T14:19:19.036408Z'
 publication_types:
 - article-journal
