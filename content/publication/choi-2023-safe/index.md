@@ -13,6 +13,7 @@ publishDate: '2024-12-04T14:19:19.045417Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Intelligent Transportation Systems*'
+doi: "10.1109/TITS.2024.3493060"
 
 links:
 - name: T-ITS
