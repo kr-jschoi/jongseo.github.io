@@ -6,17 +6,17 @@ authors:
 - Hyuntai Chin
 - Hyunwoo Park
 - Daehyeok Kwon
-- Sanghyun Lee
 - Doosan Baek
-date: '2023-01-01'
-publishDate: '2023-12-03T14:19:19.045417Z'
+- Sanghyun Lee
+date: '2024-12-04'
+publishDate: '2024-12-04T14:19:19.045417Z'
 publication_types:
 - article-journal
-publication: '*arXiv preprint arXiv:2311.02957*'
+publication: '*IEEE Transactions on Intelligent Transportation Systems*'
 
 links:
-- name: Link
-  url: https://arxiv.org/abs/2311.02957
+- name: T-ITS
+  url: https://ieeexplore.ieee.org/document/10777612
 url_pdf: https://arxiv.org/pdf/2311.02957.pdf
 url_video: https://youtu.be/7bhxfuhAqos
 
