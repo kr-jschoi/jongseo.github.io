@@ -1,6 +1,6 @@
 ---
 title: Safe and efficient trajectory optimization for autonomous vehicles using b-spline with incremental path flattening.
-summary: published in T-ITS in Nov 2024
+summary: published in T-ITS in Dec 2024
 tags:
   - Autonomous Driving
 date: '2024-12-04T00:00:00Z'
