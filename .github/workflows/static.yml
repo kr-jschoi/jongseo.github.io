@@ -42,6 +42,10 @@ jobs:
         with:
           name: my-artifact
           path: ./public
+      
+      - name: Check built files
+        run: ls -la ./public || echo "❌ No built files found!"
+        
 
   deploy:  # ✅ 배포 작업 (빌드 결과 다운로드 후 배포)
     needs: build  # 🔥 `build` 작업이 끝난 후 실행
@@ -55,7 +59,10 @@ jobs:
         with:
           name: my-artifact
           path: ./public
-
+      
+      - name: Check downloaded files
+        run: ls -la ./public || echo "❌ No files found after download!"  # 다운로드된 파일 확인
+  
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
