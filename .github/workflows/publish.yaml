@@ -73,8 +73,21 @@ jobs:
         with:
           name: my-artifact
           path: ./public
+      
       - name: Check downloaded files
-        run: ls -la ./public || echo "❌ public directory is missing after download!"
+        run: |
+          if [ -e ./public/index.html ]; then
+            echo "✅ index.html found in public"
+          else
+            echo "❌ No files found in public"
+          fi
+          
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          artifact_name: my-artifact
+          token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Deploy to GitHub Pages
+      #   id: deployment
+      #   uses: actions/deploy-pages@v2

@@ -61,7 +61,13 @@ jobs:
           path: ./public
       
       - name: Check downloaded files
-        run: ls -la ./public || echo "❌ No files found after download!"  # 다운로드된 파일 확인
+        run: |
+          if [ -e ./public/index.html ]; then
+            echo "✅ index.html found in public"
+          else
+            echo "❌ No files found in public"
+          fi
+        
   
       - name: Deploy to GitHub Pages
         id: deployment
