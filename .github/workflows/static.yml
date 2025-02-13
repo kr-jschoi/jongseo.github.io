@@ -31,19 +31,17 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       
-      - name: Build site (example)  # 💡 실제 빌드 과정 추가 (필요한 경우)
+      - name: Build site (example)
         run: |
-          mkdir -p public  # 예제: 빌드된 정적 파일이 들어갈 폴더
+          mkdir -p public
           echo "<h1>Hello GitHub Pages</h1>" > public/index.html
+          ls -la public  # Ensure the file is there
       
-      - name: Check built files  # ✅ 빌드된 파일 확인
-        run: ls -la ./public || echo "❌ No built files found!"
-
-      - name: Upload artifact  # ✅ 변경: `public/` 디렉토리만 업로드
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: my-artifact
-          path: ./public  # ✅ 정확한 빌드 디렉토리 지정
+          path: ./public
 
   deploy:  # ✅ 배포 작업 (빌드 결과 다운로드 후 배포)
     needs: build  # 🔥 `build` 작업이 끝난 후 실행
@@ -56,10 +54,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: my-artifact
-          path: ./public  # ✅ 업로드한 빌드 폴더로 설정
-
-      - name: Check downloaded files  # ✅ 다운로드된 파일 확인
-        run: ls -la ./public || echo "❌ No files found after download!"
+          path: ./public
 
       - name: Deploy to GitHub Pages
         id: deployment
