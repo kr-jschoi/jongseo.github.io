@@ -21,8 +21,8 @@ role: Robotics SW Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ThorDrive
-    url: https://www.thordrive.ai/
+  - name: Hyundai Motor Company
+    url: https://www.hyundai.com/worldwide/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include motion planning and reinforcement learning for autonomous vehicles and robotics.
